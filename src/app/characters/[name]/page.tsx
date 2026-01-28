@@ -13,7 +13,7 @@ async function latestCheck(sb: ReturnType<typeof supabaseServer>, characterId: n
     .from('eve_character_check')
     .select('status,checked_at,details')
     .eq('character_id', characterId)
-    .contains('details', { check_type: checkType })
+    .eq('check_type', checkType)
     .order('checked_at', { ascending: false })
     .limit(1)
     .maybeSingle();

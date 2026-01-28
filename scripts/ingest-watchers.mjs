@@ -108,6 +108,7 @@ async function insertCharacterChecks(sb, runId, perChar, check_type) {
     const status = row.status;
     await sb.from('eve_character_check').insert({
       run_id: runId,
+      check_type,
       character_id: row.character_id ?? null,
       status,
       checked_at: nowIso(),
