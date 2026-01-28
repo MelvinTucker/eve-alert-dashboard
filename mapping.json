@@ -1,0 +1,57 @@
+{
+  "MELTUC-DELTA": [
+    {"id": 94640205, "name": "Ursula Kraas"},
+    {"id": 2123852091, "name": "Odell-Delta"},
+    {"id": 2123867578, "name": "Hawthorne-Delta"}
+  ],
+  "MELTUC-CHARLIE": [
+    {"id": 2120753369, "name": "Under Enthusiastic"},
+    {"id": 2123852086, "name": "Odell-Charlie"},
+    {"id": 2123867570, "name": "Hawthorne-Charlie"}
+  ],
+  "MELTUC-ECHO": [
+    {"id": 2120486917, "name": "Titan wrecking Queen"},
+    {"id": 2123852095, "name": "Odell-Echo"},
+    {"id": 2123867585, "name": "Hawthorne-Echo"}
+  ],
+  "MELTUC-ALPHA": [
+    {"id": 91390782, "name": "Samantha Chase"},
+    {"id": 2123852070, "name": "Odell-Alpha"},
+    {"id": 2123867554, "name": "Hawthorne-Alpha"}
+  ],
+  "MelvinTucker": [
+    {"id": 2117819523, "name": "Odaria Astre Stenier-Tian"},
+    {"id": 2123874396, "name": "Rollosi Arsten"},
+    {"id": 2123874403, "name": "Onto Alland"}
+  ],
+  "MelTuc-HOTEL": [
+    {"id": 2114387538, "name": "Nihilum zs"},
+    {"id": 2123865884, "name": "Odell-Hotel"},
+    {"id": 2123867591, "name": "Hawthorne-Hotel"}
+  ],
+  "MelTuc-BRAVO": [
+    {"id": 2122620458, "name": "Karl Steiner"},
+    {"id": 2123852084, "name": "Odell-Bravo"},
+    {"id": 2123867565, "name": "Hawthorne-Bravo"}
+  ],
+  "NeverNew2Me": [
+    {"id": 2117804980, "name": "Caire Bulon Mileghere"},
+    {"id": 2123877658, "name": "Inalola Okabe Igunen"},
+    {"id": 2123877686, "name": "Miljolen Tiuh Akachi"}
+  ],
+  "OdellTuc": [
+    {"id": 2117798305, "name": "Beckie"},
+    {"id": 2123874386, "name": "Mahara Houssa"},
+    {"id": 2123874391, "name": "Yinuru Zhath Hanaya"}
+  ],
+  "MelTuc-GOLF": [
+    {"id": 90411452, "name": "Batankh"},
+    {"id": 2123865879, "name": "Odell-Golf"},
+    {"id": 2123867631, "name": "Hawthorne-Golf"}
+  ],
+  "MelTuc": [
+    {"id": 2117785535, "name": "LisaRenee"},
+    {"id": 2117767944, "name": "MelTuc"},
+    {"id": 2117785642, "name": "Tykhe"}
+  ]
+}
